@@ -1,5 +1,5 @@
 ## ポートフォリオサイト
-https://gongondoden.wixsite.com/ideabox  
+<a href="https://gongondoden.wixsite.com/ideabox " target="_blank">https://gongondoden.wixsite.com/ideabox </a>	
 
 
 <br>
