@@ -1,7 +1,7 @@
 ## ポートフォリオサイト
-<a href="https://gongondoden.wixsite.com/ideabox " target="_blank">https://gongondoden.wixsite.com/ideabox </a>	
+<a href="https://gongondoden.wixsite.com/ideabox " target="_blank">リンク</a>	
 
-[link](https://gongondoden.wixsite.com/ideabox){:target="_blank"}
+[ポートフォリオサイト](https://gongondoden.wixsite.com/ideabox){:target="_blank"}
 
 <br>
 <br>
