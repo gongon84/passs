@@ -1,3 +1,10 @@
+## ポートフォリオサイト
+https://gongondoden.wixsite.com/ideabox  
+
+
+<br>
+<br>
+
 ## ・ざっくり自由時間(swift)
 以下の３つを入力するだけで、その日のざっくりとした自由時間がわかります。  
 ①起床時間  
