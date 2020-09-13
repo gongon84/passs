@@ -2,83 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1171c0e1-7e56-489a-9876-3c236ba8dad1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/アプリ/CalcApp/CalcApp/Car.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5Button/Swift5Button/NextViewController.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5Button/Swift5Button/key.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5Button/Swift5Button/setting.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5CountUp/Swift5CountUp/Assets.xcassets/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5CountUp/Swift5CountUp/Assets.xcassets/backImage.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5CountUp/Swift5CountUp/Assets.xcassets/backImage.imageset/backImage.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5CountUp/Swift5CountUp/Assets.xcassets/minus.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5CountUp/Swift5CountUp/Assets.xcassets/minus.imageset/minus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5CountUp/Swift5CountUp/Assets.xcassets/plus.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5CountUp/Swift5CountUp/Assets.xcassets/plus.imageset/plus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5Keyboard/Swift5Keyboard/Assets.xcassets/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5Keyboard/Swift5Keyboard/Assets.xcassets/car.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5Keyboard/Swift5Keyboard/Assets.xcassets/car.imageset/car.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5Keyboard/Swift5Keyboard/Assets.xcassets/loginIcon.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5Keyboard/Swift5Keyboard/Assets.xcassets/loginIcon.imageset/loginIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5Keyboard/Swift5Keyboard/Assets.xcassets/loginOK.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5Keyboard/Swift5Keyboard/Assets.xcassets/loginOK.imageset/loginOK.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5Senni/Swift5Senni/NextViewController.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5TableViewBasic/Swift5TableViewBasic/Assets.xcassets/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5TableViewBasic/Swift5TableViewBasic/Assets.xcassets/backImage.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5TableViewBasic/Swift5TableViewBasic/Assets.xcassets/backImage.imageset/backImage.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5TableViewBasic/Swift5TableViewBasic/Assets.xcassets/checkImage.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5TableViewBasic/Swift5TableViewBasic/Assets.xcassets/checkImage.imageset/checkImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5TableViewBasic/Swift5TableViewBasic/NextViewController.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5Timer/Swift5Timer/Assets.xcassets/0.imageset/0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5Timer/Swift5Timer/Assets.xcassets/0.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5Timer/Swift5Timer/Assets.xcassets/1.imageset/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5Timer/Swift5Timer/Assets.xcassets/1.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5Timer/Swift5Timer/Assets.xcassets/2.imageset/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5Timer/Swift5Timer/Assets.xcassets/2.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5Timer/Swift5Timer/Assets.xcassets/3.imageset/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5Timer/Swift5Timer/Assets.xcassets/3.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5Timer/Swift5Timer/Assets.xcassets/4.imageset/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5Timer/Swift5Timer/Assets.xcassets/4.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5Timer/Swift5Timer/Assets.xcassets/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5Timer/Swift5Timer/Assets.xcassets/start.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5Timer/Swift5Timer/Assets.xcassets/start.imageset/start.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5Timer/Swift5Timer/Assets.xcassets/stop.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/アプリ/Swift5Timer/Swift5Timer/Assets.xcassets/stop.imageset/stop.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_abc69B.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/CalcApp/CalcApp.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/CalcApp/CalcApp.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/CalcApp/CalcApp/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/CalcApp/CalcApp/Base.lproj/Main.storyboard" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/CalcApp/CalcApp/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/CalcApp/CalcApp/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/CalcApp/CalcApp/ViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/CalcApp/CalcApp/ViewController.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5Button/Swift5Button.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5Button/Swift5Button.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5Button/Swift5Button.xcodeproj/xcuserdata/ev70075.xcuserdatad/xcschemes/Swift5Button.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5Button/Swift5Button.xcodeproj/xcuserdata/ev70075.xcuserdatad/xcschemes/Swift5Button.xcscheme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5Button/Swift5Button/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5Button/Swift5Button/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5Button/Swift5Button/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5Button/Swift5Button/Base.lproj/Main.storyboard" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5Button/Swift5Button/ViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5Button/Swift5Button/ViewController.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5CountUp/Swift5CountUp.xcodeproj/xcuserdata/ev70075.xcuserdatad/xcschemes/Swift5CountUp.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5CountUp/Swift5CountUp.xcodeproj/xcuserdata/ev70075.xcuserdatad/xcschemes/Swift5CountUp.xcscheme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5CountUp/Swift5CountUp/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5CountUp/Swift5CountUp/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5CountUp/Swift5CountUp/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5CountUp/Swift5CountUp/Base.lproj/Main.storyboard" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5CountUp/Swift5CountUp/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5CountUp/Swift5CountUp/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5CountUp/Swift5CountUp/ViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5CountUp/Swift5CountUp/ViewController.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5Keyboard/Swift5Keyboard.xcodeproj/xcuserdata/ev70075.xcuserdatad/xcschemes/Swift5Keyboard.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5Keyboard/Swift5Keyboard.xcodeproj/xcuserdata/ev70075.xcuserdatad/xcschemes/Swift5Keyboard.xcscheme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5Keyboard/Swift5Keyboard/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5Keyboard/Swift5Keyboard/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5Keyboard/Swift5Keyboard/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5Keyboard/Swift5Keyboard/Base.lproj/Main.storyboard" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5Keyboard/Swift5Keyboard/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5Keyboard/Swift5Keyboard/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5Keyboard/Swift5Keyboard/ViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5Keyboard/Swift5Keyboard/ViewController.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5Senni/Swift5Senni.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5Senni/Swift5Senni.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5Senni/Swift5Senni.xcodeproj/xcuserdata/ev70075.xcuserdatad/xcschemes/Swift5Senni.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5Senni/Swift5Senni.xcodeproj/xcuserdata/ev70075.xcuserdatad/xcschemes/Swift5Senni.xcscheme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5Senni/Swift5Senni/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5Senni/Swift5Senni/Base.lproj/Main.storyboard" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5Senni/Swift5Senni/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5Senni/Swift5Senni/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5Senni/Swift5Senni/ViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5Senni/Swift5Senni/ViewController.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5TableViewBasic/Swift5TableViewBasic.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5TableViewBasic/Swift5TableViewBasic.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5TableViewBasic/Swift5TableViewBasic/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5TableViewBasic/Swift5TableViewBasic/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5TableViewBasic/Swift5TableViewBasic/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5TableViewBasic/Swift5TableViewBasic/Base.lproj/Main.storyboard" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5TableViewBasic/Swift5TableViewBasic/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5TableViewBasic/Swift5TableViewBasic/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5TableViewBasic/Swift5TableViewBasic/ViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5TableViewBasic/Swift5TableViewBasic/ViewController.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5Timer/Swift5Timer.xcodeproj/xcuserdata/ev70075.xcuserdatad/xcschemes/Swift5Timer.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5Timer/Swift5Timer.xcodeproj/xcuserdata/ev70075.xcuserdatad/xcschemes/Swift5Timer.xcscheme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5Timer/Swift5Timer/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5Timer/Swift5Timer/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5Timer/Swift5Timer/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5Timer/Swift5Timer/Base.lproj/Main.storyboard" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5Timer/Swift5Timer/ViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5Timer/Swift5Timer/ViewController.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5WKWebView/Swift5WKWebView/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5WKWebView/Swift5WKWebView/Base.lproj/Main.storyboard" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5WKWebView/Swift5WKWebView/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5WKWebView/Swift5WKWebView/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/アプリ/Swift5WKWebView/Swift5WKWebView/ViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/アプリ/Swift5WKWebView/Swift5WKWebView/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MoveMaker/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MoveMaker/.idea/MoveMaker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MoveMaker/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MoveMaker/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MoveMaker/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MoveMaker/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MoveMaker/MoveMaker.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MoveMaker/MoveMaker.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MoveMaker/MoveMaker.xcodeproj/project.xcworkspace/xcuserdata/ev70075.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MoveMaker/MoveMaker.xcodeproj/xcuserdata/ev70075.xcuserdatad/xcschemes/MoveMaker.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MoveMaker/MoveMaker.xcodeproj/xcuserdata/ev70075.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MoveMaker/MoveMaker/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MoveMaker/MoveMaker/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MoveMaker/MoveMaker/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MoveMaker/MoveMaker/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MoveMaker/MoveMaker/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MoveMaker/MoveMaker/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MoveMaker/moveMaker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +49,49 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.random_walk (1)">
+    <configuration name="blackjack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="passs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/研究・ゼミ" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/研究・ゼミ/blackjack.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="random_walk (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="passs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/研究・ゼミ" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/研究・ゼミ/random_walk.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="random_walk" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="passs" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,6 +115,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.random_walk (1)" />
+        <item itemvalue="Python.blackjack" />
         <item itemvalue="Python.random_walk" />
       </list>
     </recent_temporary>
@@ -151,21 +139,21 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1594205929829" />
-    <state width="1419" height="238" key="GridCell.Tab.0.bottom" timestamp="1594206097185">
+    <state width="1419" height="238" key="GridCell.Tab.0.bottom" timestamp="1598410558152">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="238" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594206097185" />
-    <state width="1419" height="238" key="GridCell.Tab.0.center" timestamp="1594206097184">
+    <state width="1419" height="238" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598410558152" />
+    <state width="1419" height="238" key="GridCell.Tab.0.center" timestamp="1598410558148">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="238" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594206097184" />
-    <state width="1419" height="238" key="GridCell.Tab.0.left" timestamp="1594206097183">
+    <state width="1419" height="238" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598410558148" />
+    <state width="1419" height="238" key="GridCell.Tab.0.left" timestamp="1598410558145">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="238" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594206097183" />
-    <state width="1419" height="238" key="GridCell.Tab.0.right" timestamp="1594206097184">
+    <state width="1419" height="238" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598410558145" />
+    <state width="1419" height="238" key="GridCell.Tab.0.right" timestamp="1598410558150">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="238" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594206097184" />
+    <state width="1419" height="238" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598410558150" />
   </component>
 </project>
